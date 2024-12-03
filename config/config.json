@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "SxrwjC40sp94VCBVqVCS",
+    "database": "aws_test",
+    "host": "rds-sg-aws-test-dev.cb2o6aos2462.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
